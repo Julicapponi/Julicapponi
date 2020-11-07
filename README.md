@@ -1,5 +1,5 @@
 ### Hi. I'm Julián Capponi 👋
-
+<hr>
 Here are some ideas to get you started:
 
 - 🔭 I’m currently studying on [UCEL](https://www.ucel.edu.ar/).
