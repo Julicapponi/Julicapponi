@@ -9,7 +9,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: Juli
 
 ### ⚡ Technologies
-
 ---
 - HTML5
 - CSS
