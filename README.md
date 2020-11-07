@@ -11,9 +11,12 @@ Here are some ideas to get you started:
 ### ⚡ Technologies
 ---
 - HTML5
-- CSS
+- CSS3
 - BOOTSTRAP
 - JAVA
+- MYSQL
+- GIT
+- GITHUB
 
 
 
