@@ -2,11 +2,11 @@
 
 ---
 - 🌱 23 years old
-- 🔭 I’m currently studying on [UCEL](https://www.ucel.edu.ar/).
-- 🌱 I’m currently learning JavaScript.
-- 📫 You can reach me on [Instagram](https://www.instagram.com/julicapponi/).
+- :mortar_board: I’m currently studying on [UCEL](https://www.ucel.edu.ar/).
+- :muscle: I’m currently learning JavaScript.
+- :camera: You can reach me on [Instagram](https://www.instagram.com/julicapponi/).
 - 😄 Pronouns: Juli
-- :camera:
+- 
 ### ⚡ Technologies
 ---
 - HTML5
