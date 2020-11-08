@@ -6,7 +6,7 @@
 - :muscle: I’m currently learning JavaScript.
 - :camera: You can reach me on [Instagram](https://www.instagram.com/julicapponi/).
 - 😄 Pronouns: Juli
-- 
+
 ### ⚡ Technologies
 ---
 - HTML5
