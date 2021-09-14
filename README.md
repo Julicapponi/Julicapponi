@@ -22,7 +22,6 @@
 - BITBUCKET
 - JIRA
 - TRELLO
-- 
 
 
 
