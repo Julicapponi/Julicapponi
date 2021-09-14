@@ -16,6 +16,13 @@
 - MYSQL
 - GIT
 - GITHUB
+- POSTGRES
+- SQL
+- BAMBOO
+- BITBUCKET
+- JIRA
+- TRELLO
+- 
 
 
 
