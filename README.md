@@ -16,7 +16,7 @@
   <img alt="CSS" src="https://img.shields.io/badge/-CSS3-0D1117?logo=css3&logoColor=0769AD&style=plastic"/>
   <img alt="Bootstrap" src="https://img.shields.io/badge/-Bootstrap-0D1117?logo=Bootstrap&logoColor=23A7F2&style=plastic"/>
   <img alt="Javascript" src="https://img.shields.io/badge/-JavaScript-0D1117?logo=javascript&logoColor=F7DF1E&style=plastic"/>
-   <img alt="Angular" src="https://img.shields.io/badge/-Git-0D1117?logo=Angular&logoColor=23A7F2&style=plastic"/>
+   <img alt="Angular" src="https://img.shields.io/badge/-Angular-0D1117?logo=Angular&logoColor=23A7F2&style=plastic"/>
   <img alt="Java" src="https://img.shields.io/badge/-Java-0D1117?logo=Java&logoColor=F7DF1E&style=plastic"/>
   <img alt="MySQL" src="https://img.shields.io/badge/-MySQL-0D1117?logo=MySQL&logoColor=blue&style=plastic"/>
   <img alt="SQL" src="https://img.shields.io/badge/-SQL-0D1117?logo=SQL&logoColor=47A248&style=plastic"/>
