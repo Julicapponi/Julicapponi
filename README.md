@@ -19,7 +19,8 @@
   <img alt="Angular" src="https://img.shields.io/badge/-Angular-0D1117?logo=Angular&logoColor=FB1C1C&style=plastic"/>
   <img alt="Ionic" src="https://img.shields.io/badge/-Ionic-0D1117?logo=Ionic&logoColor=23A7F2&style=plastic"/>
  <img alt="Typescript" src="https://img.shields.io/badge/-Typescript-0D1117?logo=Typescript&logoColor=23A7F2&style=plastic"/>
-   <img alt="SqLite" src="https://img.shields.io/badge/-SqLite-0D1117?logo=SqLite&logoColor=23A7F2&style=plastic"/>
+  <img alt="SqLite" src="https://img.shields.io/badge/-SqLite-0D1117?logo=SqLite&logoColor=23A7F2&style=plastic"/>
+  <img alt="NextJS" src="https://img.shields.io/badge/-NextJS-0D1117?logo=NextJS&logoColor=23A7F2&style=plastic"/>
     <img alt="ApiRest" src="https://img.shields.io/badge/-ApiRest-0D1117?logo=ApiRest&logoColor=23A7F2&style=plastic"/>
      <img alt="NodeJS" src="https://img.shields.io/badge/-NodeJS-0D1117?logo=NodeJS&logoColor=23A7F2&style=plastic"/>
   <img alt="Java" src="https://img.shields.io/badge/-Java-0D1117?logo=Java&logoColor=F7DF1E&style=plastic"/>
