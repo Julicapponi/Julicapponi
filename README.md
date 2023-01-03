@@ -10,7 +10,7 @@
 - 😄 Pronouns: Juli
 
 ### ⚡ Technologies
----
+
 ⚡ Frontend
 <p>
 <img alt="HTML5" src="https://img.shields.io/badge/-HTML5-0D1117?logo=html5&logoColor=E34F26&style=plastic"/>
@@ -23,7 +23,7 @@
 <img alt="SqLite" src="https://img.shields.io/badge/-SqLite-0D1117?logo=SqLite&logoColor=23A7F2&style=plastic"/>
 <img alt="NextJS" src="https://img.shields.io/badge/-NextJS-0D1117?logo=NextJS&logoColor=23A7F2&style=plastic"/>
 </p>
----
+
 ⚡ Backend
  <p>
   <img alt="ApiRest" src="https://img.shields.io/badge/-ApiRest-0D1117?logo=ApiRest&logoColor=23A7F2&style=plastic"/>
@@ -32,7 +32,7 @@
   <img alt="MySQL" src="https://img.shields.io/badge/-MySQL-0D1117?logo=MySQL&logoColor=blue&style=plastic"/>
   <img alt="SQL" src="https://img.shields.io/badge/-SQL-0D1117?logo=SQL&logoColor=47A248&style=plastic"/>
 </p>
----
+
 ⚡ Others
  <p>
   <img alt="GitHub" src="https://img.shields.io/badge/-GitHub-0D1117?logo=github&logoColor=white&style=plastic"/>
