@@ -34,6 +34,7 @@
 </p>
 ---
 ⚡ Others
+ <p>
   <img alt="GitHub" src="https://img.shields.io/badge/-GitHub-0D1117?logo=github&logoColor=white&style=plastic"/>
   <img alt="VSCode" src="https://img.shields.io/badge/-VScode-0D1117?logo=visual-studio-code&logoColor=23A7F2&style=plastic"/>
   <img alt="Eclipse" src="https://img.shields.io/badge/-Eclipse-0D1117?logo=Eclipse&logoColor=23A7F2&style=plastic"/>
@@ -41,7 +42,7 @@
   <img alt="Bamboo" src="https://img.shields.io/badge/-Bamboo-0D1117?logo=Bamboo&logoColor=23A7F2&style=plastic"/>
   <img alt="Git" src="https://img.shields.io/badge/-Git-0D1117?logo=Git&logoColor=23A7F2&style=plastic"/>
   <img alt="Trello" src="https://img.shields.io/badge/-Trello-0D1117?logo=Trello&logoColor=23A7F2&style=plastic"/>
-
+</p>
 
 
 
