@@ -27,7 +27,7 @@
 ⚡ Backend
  <p>
   <img alt="ApiRest" src="https://img.shields.io/badge/-ApiRest-0D1117?logo=ApiRest&logoColor=23A7F2&style=plastic"/>
-  <img alt="NodeJS" src="https://img.shields.io/badge/-NodeJS-0D1117?logo=NodeJS&logoColor=23A7F2&style=plastic"/>
+  <!--<img alt="NodeJS" src="https://img.shields.io/badge/-NodeJS-0D1117?logo=NodeJS&logoColor=23A7F2&style=plastic"/> -->
   <img alt="Java" src="https://img.shields.io/badge/-Java-0D1117?logo=Java&logoColor=F7DF1E&style=plastic"/>
   <img alt="MySQL" src="https://img.shields.io/badge/-MySQL-0D1117?logo=MySQL&logoColor=blue&style=plastic"/>
   <img alt="SQL" src="https://img.shields.io/badge/-SQL-0D1117?logo=SQL&logoColor=47A248&style=plastic"/>
