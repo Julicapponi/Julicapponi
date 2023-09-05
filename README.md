@@ -2,11 +2,10 @@
 
 ---
 - 🌱 25 years old
-- :mortar_board: I’m currently studying Ingenieria en Sistemas on [UCEL](https://www.ucel.edu.ar/).
-- :muscle: I’m currently learning JavaScript.
+- :mortar_board: I’m an information Systems Engineer.
 - :camera: You can reach me on [Instagram](https://www.instagram.com/julicapponi/).
-- :muscle: Backend Java developer March 2021 - December 2021
-- :muscle: Frontend Mobile developer December 2021 - ...
+- :muscle: Java developer March 2021 - December 2021
+- :muscle: Frontend Mobile developer December 2021 - actually
 - 😄 Pronouns: Juli
 
 ### ⚡ Technologies
