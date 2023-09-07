@@ -1,5 +1,5 @@
 <p align="center" width="300">
-   <img align="center" width="200" src="https://github.com/tu-usuario/Julicapponi/blob/main/src/img/personal.png" />
+   <img align="center" width="200" src="https://github.com/Julicapponi/Julicapponi/blob/main/src/img/personal.png" />
    <h3 align="center">¡Hola 👋! Soy Julián Capponi 👨🏻‍💻</h3>
 </p>
 
