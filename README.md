@@ -5,11 +5,8 @@
 
 <p align="center">Soy <strong>Desarrollador Frontend Mobile y Web</strong>¡Revisa mi contenido 👇!</p>
 <p align="center">
-   <a href="https://twitch.tv/midudev" target="blank" style='margin-right:4px'>
+   <a href="https://twitch.tv/julix56" target="blank" style='margin-right:4px'>
     <img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitch.svg" alt="julicapponi" height="28px" width="28px" />
-  </a>
-   <a href="https://youtube.com/midudev" target="blank" style='margin-right:4px'>
-    <img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/youtube.svg" alt="julicapponi" height="28px" width="28px" />
   </a>
   <a href="https://instagram.com/julicapponi" target="blank">
     <img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="julicapponi" height="28px" width="28px" />
