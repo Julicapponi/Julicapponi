@@ -3,7 +3,7 @@
    <h3 align="center">¡Hola👋! Soy Julián Capponi 👨🏻‍💻</h3>
 </p>
 
-<p align="center">Soy <strong>Desarrollador Frontend Mobile y Web</strong></b>¡Revisa mi contenido 👇!</p>
+<p align="center">Soy <strong>Desarrollador Frontend Mobile y Web</strong><br />¡Revisa mi contenido 👇!</p>
 <p align="center">
    <a href="https://twitch.tv/julix56" target="blank" style='margin-right:4px'>
     <img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitch.svg" alt="julicapponi" height="28px" width="28px" />
