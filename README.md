@@ -22,8 +22,8 @@
 <p align="left">:muscle: Java developer March 2021 - December 2021</p>
 <p align="left">:muscle: Frontend Mobile developer December 2021 - actually</p>
 
-<p align="center" width="200">⚡ Technologies 👇</p>
-<p align="center" width="150">⚡ Frontend</p>
+<p align="left" width="200">⚡ Technologies 👇</p>
+<p align="left" width="150">⚡ Frontend</p>
 <p>
    <img alt="HTML5" src="https://img.shields.io/badge/-HTML5-0D1117?logo=html5&logoColor=E34F26&style=plastic"/>
    <img alt="CSS" src="https://img.shields.io/badge/-CSS3-0D1117?logo=css3&logoColor=0769AD&style=plastic"/>
@@ -36,7 +36,7 @@
    <img alt="NextJS" src="https://img.shields.io/badge/-NextJS-0D1117?logo=NextJS&logoColor=23A7F2&style=plastic"/>
 </p>
 
-<p align="center" width="150">⚡ Backend</p>
+<p align="left" width="150">⚡ Backend</p>
  <p>
   <img alt="ApiRest" src="https://img.shields.io/badge/-ApiRest-0D1117?logo=ApiRest&logoColor=23A7F2&style=plastic"/>
   <!--<img alt="NodeJS" src="https://img.shields.io/badge/-NodeJS-0D1117?logo=NodeJS&logoColor=23A7F2&style=plastic"/> -->
