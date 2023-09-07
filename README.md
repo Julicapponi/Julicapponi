@@ -22,7 +22,7 @@
 <p align="left">:muscle: Java developer March 2021 - December 2021</p>
 <p align="left">:muscle: Frontend Mobile developer December 2021 - actually</p>
 
-<p align="center" width="200">⚡ Technologies 👇</p>
+<h3 align="center" width="200">⚡ Technologies 👇</h3>
 <p align="left" width="150">⚡ Frontend</p>
 <p style='margin-left:8px'>
    <img alt="HTML5" src="https://img.shields.io/badge/-HTML5-0D1117?logo=html5&logoColor=E34F26&style=plastic"/>
