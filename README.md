@@ -16,29 +16,27 @@
   </a>
 </p>
 
-- 🌱 25 years old
-- :mortar_board: I’m an information Systems Engineer.
-- :camera: You can reach me on [Instagram](https://www.instagram.com/julicapponi/).
-- :muscle: Java developer March 2021 - December 2021
-- :muscle: Frontend Mobile developer December 2021 - actually
-- 😄 Pronouns: Juli
+<p align="left">🌱 25 years old</p>
+<p align="left">😄 Pronouns: Juli</p>
+<p align="left">:mortar_board: I’m an information Systems Engineer.</p>
+<p align="left">:muscle: Java developer March 2021 - December 2021</p>
+<p align="left">:muscle: Frontend Mobile developer December 2021 - actually</p>
 
-### ⚡ Technologies
-
-⚡ Frontend
+<p align="center" width="200">⚡ Technologies 👇</p>
+<p align="center" width="150">⚡ Frontend</p>
 <p>
-<img alt="HTML5" src="https://img.shields.io/badge/-HTML5-0D1117?logo=html5&logoColor=E34F26&style=plastic"/>
-<img alt="CSS" src="https://img.shields.io/badge/-CSS3-0D1117?logo=css3&logoColor=0769AD&style=plastic"/>
-<img alt="Bootstrap" src="https://img.shields.io/badge/-Bootstrap-0D1117?logo=Bootstrap&logoColor=23A7F2&style=plastic"/>
-<img alt="Javascript" src="https://img.shields.io/badge/-JavaScript-0D1117?logo=javascript&logoColor=F7DF1E&style=plastic"/>
-<img alt="Angular" src="https://img.shields.io/badge/-Angular-0D1117?logo=Angular&logoColor=FB1C1C&style=plastic"/>
-<img alt="Ionic" src="https://img.shields.io/badge/-Ionic-0D1117?logo=Ionic&logoColor=23A7F2&style=plastic"/>
-<img alt="Typescript" src="https://img.shields.io/badge/-Typescript-0D1117?logo=Typescript&logoColor=23A7F2&style=plastic"/>
-<img alt="SqLite" src="https://img.shields.io/badge/-SqLite-0D1117?logo=SqLite&logoColor=23A7F2&style=plastic"/>
-<img alt="NextJS" src="https://img.shields.io/badge/-NextJS-0D1117?logo=NextJS&logoColor=23A7F2&style=plastic"/>
+   <img alt="HTML5" src="https://img.shields.io/badge/-HTML5-0D1117?logo=html5&logoColor=E34F26&style=plastic"/>
+   <img alt="CSS" src="https://img.shields.io/badge/-CSS3-0D1117?logo=css3&logoColor=0769AD&style=plastic"/>
+   <img alt="Bootstrap" src="https://img.shields.io/badge/-Bootstrap-0D1117?logo=Bootstrap&logoColor=23A7F2&style=plastic"/>
+   <img alt="Javascript" src="https://img.shields.io/badge/-JavaScript-0D1117?logo=javascript&logoColor=F7DF1E&style=plastic"/>
+   <img alt="Angular" src="https://img.shields.io/badge/-Angular-0D1117?logo=Angular&logoColor=FB1C1C&style=plastic"/>
+   <img alt="Ionic" src="https://img.shields.io/badge/-Ionic-0D1117?logo=Ionic&logoColor=23A7F2&style=plastic"/>
+   <img alt="Typescript" src="https://img.shields.io/badge/-Typescript-0D1117?logo=Typescript&logoColor=23A7F2&style=plastic"/>
+   <img alt="SqLite" src="https://img.shields.io/badge/-SqLite-0D1117?logo=SqLite&logoColor=23A7F2&style=plastic"/>
+   <img alt="NextJS" src="https://img.shields.io/badge/-NextJS-0D1117?logo=NextJS&logoColor=23A7F2&style=plastic"/>
 </p>
 
-⚡ Backend
+<p align="center" width="150">⚡ Backend</p>
  <p>
   <img alt="ApiRest" src="https://img.shields.io/badge/-ApiRest-0D1117?logo=ApiRest&logoColor=23A7F2&style=plastic"/>
   <!--<img alt="NodeJS" src="https://img.shields.io/badge/-NodeJS-0D1117?logo=NodeJS&logoColor=23A7F2&style=plastic"/> -->
