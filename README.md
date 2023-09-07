@@ -1,6 +1,6 @@
 <p align="center" width="300">
    <img align="center" width="200" src="https://github.com/Julicapponi/Julicapponi/blob/main/src/img/personal.png" />
-   <h3 align="center">¡Hola 👋! Soy Julián Capponi 👨🏻‍💻</h3>
+   <h3 align="center">¡Hola👋! Soy Julián Capponi 👨🏻‍💻</h3>
 </p>
 
 <p align="center">Soy <strong>Desarrollador Frontend Mobile y Web</strong>¡Revisa mi contenido 👇!</p>
