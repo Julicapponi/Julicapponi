@@ -20,7 +20,7 @@
 <p align="left">😄 Pronouns: Juli</p>
 <p align="left">:mortar_board: I’m an information Systems Engineer.</p>
 <p align="left">:muscle: Java developer March 2021 - December 2021</p>
-<p align="left">:muscle: Frontend Mobile developer December 2021 - actually</p>
+<p align="left">:muscle: Frontend Mobile / Web Developer December 2021 - actually</p>
 
 <h3 align="center" width="200">⚡ Technologies</h3>
 <p align="left" width="150">⚡ Frontend</p>
